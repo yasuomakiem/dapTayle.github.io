@@ -1,0 +1,21 @@
+main{
+    position: relative;
+    margin-top: 100px;
+    background-color: #ffc0cb;
+    height: 500px;
+    cursor: url("bua-go-can-go-tolsen-25126-1512634211-removebg-preview-removebg-preview.png"), auto;
+}
+.rac{
+    z-index: 1;
+    position: absolute;
+    width: 50px;
+    height: 50px;  
+    /* transform: translate(-100%,-100%); */
+        
+}
+/* 
+.start{
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+} */
